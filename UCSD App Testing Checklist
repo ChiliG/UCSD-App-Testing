@@ -2,4 +2,6 @@ UCSD App Testing Checklist
 
 *The initial design has been created and is currently in a google draw document. It consists of general items in the top, with card specific tests on the bottom. I still need a way to improve the clarity of testing order; which to do first, how to follow the checklist specifically. The other thing I will look into is a new software that can integrate with Github better so that this repo can track the history of the design, as well as my thoughts and progress. Under google draw I can document my thoughts and progress, but seeing a visual history and progression would be beneficial.* 5/2/17
 
+*I have researched other software for design with a focus on GitHub integration. It seems as though sketch is our best bet for the most effective work integration. I have a 30 day trial and have found a git plugin. I am still working out the details, but I should be able to use the plugin to run my repo. More to come as I explore the plugin and its capabilities.* 5/2/17
+
   
